@@ -26,3 +26,21 @@ https://github.com/vikpande/diet-mgmt-app
 
 https://github.com/IBM/watson-calorie-counter
 
+
+https://github.com/jetamartin/mealPlan/tree/master/src
+
+https://github.com/JLangowitz/EverythingLeft
+
+https://github.com/jakexconniff/DietaryMax/blob/master/server/methods.js
+
+https://github.com/expfactory-experiments/dietary-decision
+
+https://github.com/desktop/what-the-changelog
+
+
+
+https://github.com/pyprism/Hiren-Recipes/blob/master/recipe/models.py
+
+https://github.com/hippothesis/Recipezy/blob/master/app/constants/ActionTypes.js
+
+https://github.com/daftFunc/planEats
