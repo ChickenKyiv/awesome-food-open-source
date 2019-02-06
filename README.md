@@ -44,3 +44,6 @@
 - https://github.com/hippothesis/Recipezy/blob/master/app/constants/ActionTypes.js
 
 - https://github.com/daftFunc/planEats
+
+
+- https://github.com/lukejoliat/recipes https://medium.freecodecamp.org/do-we-still-need-javascript-frameworks-42576735949b
