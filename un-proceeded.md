@@ -43,3 +43,7 @@ https://www.flaticon.com/free-icon/bird-part-meat-hand-drawn-outline_35625#term=
 - https://blog.nutrium.io/meal-plans-templates/
 - https://medium.com/swlh/the-difference-between-success-and-failure-98b6ba9d2b22
 - https://medium.com/@walz/the-making-of-routeshuffle-c598a754a1ec
+
+
+Not an open-source, but cool tool for non-technies
+- https://www.trymason.com/how-mason-works
