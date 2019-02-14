@@ -47,3 +47,8 @@
 
 
 - https://github.com/lukejoliat/recipes https://medium.freecodecamp.org/do-we-still-need-javascript-frameworks-42576735949b
+
+- https://github.com/menttys/RecipesBookApp/blob/master/notCompiled/components/FullRecipe.js
+- https://github.com/besirovic/recipesbook/tree/master/src/app/shopping-list
+- https://github.com/danielbastidasr/recipesbook-app-angular/blob/master/src/app/recipes/recipe.model.ts
+- https://github.com/search?utf8=%E2%9C%93&q=recipesbook-app&type=
