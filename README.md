@@ -52,3 +52,24 @@
 - https://github.com/besirovic/recipesbook/tree/master/src/app/shopping-list
 - https://github.com/danielbastidasr/recipesbook-app-angular/blob/master/src/app/recipes/recipe.model.ts
 - https://github.com/search?utf8=%E2%9C%93&q=recipesbook-app&type=
+
+
+https://github.com/matthewvincent/mealdotnext
+https://github.com/fullstackreact/food-lookup-demo
+
+https://github.com/jphastings/TescoGroceries/blob/master/lib/tesco.rb
+
+
+https://github.com/stevenjson/CuisineClassifying
+
+https://github.com/superhighfives/list-of-ingredients
+
+https://www.foodfit.com/search?q=chicken
+
+https://github.com/benawad/food_network_wrapper
+
+https://github.com/jwill9999/recipe-app
+
+https://github.com/drumnation/rachael-recipe-textbot
+
+
