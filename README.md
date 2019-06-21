@@ -1,5 +1,8 @@
 # awesome-food-open-source
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ChickenKyiv/awesome-food-open-source) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/ChickenKyiv/awesome-food-open-source)
+![astronaut](https://raw.githubusercontent.com/GroceriStar/creative/master/website-illustrations/astronaut.svg?sanitize=true)
+
 - https://medium.com/@prezshaikh/build-a-food-listing-app-with-react-native-1fd64f51bcae
 
 - https://github.com/searchkit/searchkit
